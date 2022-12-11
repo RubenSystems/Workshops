@@ -15,7 +15,7 @@ First ever workshop.
 - Deploying neural networks 
 
  
-#### Stages
+## Stages
 
 ***Day 1***
 - Ensure environment works on everybody's computer 
