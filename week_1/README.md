@@ -41,3 +41,10 @@ First ever workshop.
 ***Day 5***
 - Finish everything off 
 - Time for questions 
+
+
+
+### Links 
+Here are the links that I talk about in the workshop 
+- Dot product (also just a good linalg course): https://www.youtube.com/watch?v=LyGKycYT2v0
+- Neural net playground: https://playground.tensorflow.org/
