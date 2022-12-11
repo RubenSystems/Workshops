@@ -7,23 +7,37 @@ First ever workshop.
 - Neural Nets 
 - Deep Learning
 - Using Tensorflow.js 
+- Practical experience with machine learning
 
-## Project
-We will be developing a realestate startup called RealPrice. RealPrice uses machine learning to predict housing prices in cali. We can then offer instant quotes on house prices and sell them for more then we bought them.
+## Projects
+- Basic Neural Networks 
+- Neural networks with real data
+- Deploying neural networks 
+
  
 #### Stages
 
 ***Day 1***
-- Learn how neural networks work
+- Ensure environment works on everybody's computer 
+- Learn neural network terminology (activation funcs, batch sizes, learning rates, training, testing, etc)
+- Use the tensorflow sandbox to show all new stuff in action 
 
 ***Day 2***
-- Get a dataset and preprocess the data
+- Learn about neural networks with examples
+- Try with basic polynomial regression and classififcation
+- See how different things affect neural networks (like above + ann structure (density and number of layers))
 
 ***Day 3***
-- Create a Neural Network 
+- Create a neural network on real data
+- Analysing the real data 
+- Analysing the neural network 
+- Creating predictions on the data 
 
 ***Day 4***
-- Make a fronted for our business
+- Deploying the model
+- Exporting model to a savable format
+- Using the model in a website
 
 ***Day 5***
-- Finish everything off
+- Finish everything off 
+- Time for questions 
