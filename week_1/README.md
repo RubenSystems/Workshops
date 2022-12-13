@@ -48,3 +48,7 @@ First ever workshop.
 Here are the links that I talk about in the workshop 
 - Dot product (also just a good linalg course): https://www.youtube.com/watch?v=LyGKycYT2v0
 - Neural net playground: https://playground.tensorflow.org/
+
+### COLAB links 
+- 1: https://colab.research.google.com/drive/1LEoBBHVp1Q7I0JPLZSa_rAzIAAyKm78L?usp=sharing
+- 2: https://colab.research.google.com/drive/1BL4kE-dnU17M0l1WiIxsyiiFuNZ9k5zP?usp=sharing
