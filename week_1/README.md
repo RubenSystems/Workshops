@@ -6,7 +6,7 @@ First ever workshop.
 - Learn tensorflow basics 
 - Neural Nets 
 - Deep Learning
-- Using Tensorflow.js 
+- Exporting models to Tensorflow.JS
 - Practical experience with machine learning
 - Learning about autoencoders
 - Using autoencoders to speed up other learning tasks 
