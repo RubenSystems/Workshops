@@ -1,2 +1,2 @@
 # Workshops
-Regression, Classification, Autoencoders, Transfer-Learning and Generative Neural Nets
+Regression, Classification, Autoencoders, Fine-tuning pre-trained models and Generative Neural Nets
